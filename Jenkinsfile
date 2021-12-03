@@ -1,2 +1,5 @@
 @Library('Jenkinslibrary1@main') _
-db_changes{}
+db_changes{
+email=''
+repo=''
+}
